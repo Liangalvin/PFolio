@@ -1,0 +1,142 @@
+body {
+  font-family: 'Fira Sans', sans-serif;
+}
+
+
+.screen {
+  min-height: 100vh;
+  max-height: 100%;
+  padding-top: 5px;
+}
+
+h1, h3, #contact {
+  text-align: center;
+  padding-top: 40px;
+  color: #03A678;
+}
+
+#logo {
+  margin-left: 20px;
+}
+
+#night {
+  max-height: 100vh;
+  max-width: 100vw;
+}
+
+#name {
+  color: white;
+}
+
+.nav-wrapper {
+  background-color: #03A678;
+}
+
+.nav-wrapper ul a{
+  font-size: 18px;
+}
+
+#alvin {
+  width: 250px;
+  height: 175px;
+}
+
+.row {
+  text-align: center;
+}
+
+.skills {
+  display: inline;
+  margin-left: 10px;
+}
+
+#project1 {
+  height: 250px;
+  width: 350px;
+}
+
+#project2 {
+  height: 225px;
+  width: 200px;
+}
+
+#project3 {
+  height: 100px;
+  width: 450px;
+}
+
+.projects {
+  padding-top: 40px;
+}
+
+#contact {
+  list-style: none;
+}
+
+#email div{
+  background-image: url('../img/mail.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  display: inline;
+  padding-right: 5px;
+  padding-left: 50px;
+}
+
+#linked div{
+  background-image: url('../img/linkedin.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  display: inline;
+  padding-right: 5px;
+  padding-left: 50px;
+}
+
+#ga div{
+  background-image: url('../img/GA.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  display: inline;
+  padding-right: 5px;
+  padding-left: 50px;
+}
+
+#github div{
+  background-image: url('../img/github.jpg');
+  background-repeat: no-repeat;
+  background-size: contain;
+  display: inline;
+  padding-right: 5px;
+  padding-left: 50px;
+}
+
+#footerDiv {
+  margin-left: 25px;
+}
+
+#foot {
+  margin-top: 25%;
+  width: 100%;
+  height: 60px;
+}
+
+p {
+  font-size: 18px;
+  color: #03A678;
+}
+
+li {
+  font-size: 24px;
+  color: #03A678;
+}
+
+#nav-mobile {
+  margin-right: 20px;
+}
+
+ul a {
+  color: #03A678;
+}
+
+a:hover {
+  color: red;
+}
